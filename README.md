@@ -3,7 +3,7 @@
 - 👀 I’m interested in Unity developpement (2D), and web app
 - 🌱 I’m currently learning pyton😅
 - 💞️ I’m looking to collaborate on unity 2D project, Minecraft server
-- 📫 How to reach me gagafeee@gmail.com
+- 📫 How to reach me gagafeee@gmail.com or Gagafeee#3431 on discord
 
 <!---
 Gagafeee/Gagafeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
