@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Gagafeee
-- 🇫🇷  I'm French
-- 👀 I’m interested in Unity developpement (2D), and web app
-- 🌱 I’m currently learning pyton😅
-- 💞️ I’m looking to collaborate on unity 2D project, Minecraft server
-- 📫 How to reach me gagafeee@gmail.com or Gagafeee#3431 on discord
+<img src="https://github.com/Gagafeee/Gagafeee/assets/64372089/67019840-20f0-4554-986e-c68f71295202" alt="Icon" width="286" height="256" align="left">
+
+# Gagafeee
+> 🇫🇷 Paris - France
+
+I create website and web applications
+
+<a href="mailto:gagafeee@gmail.com">gagafeee@gmail.com</a> or <b>Gagafeee</b> on discord
 
 <!---
 Gagafeee/Gagafeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
