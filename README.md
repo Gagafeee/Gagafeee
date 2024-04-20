@@ -1,4 +1,4 @@
-<img src="https://github.com/Gagafeee/Gagafeee/assets/64372089/67019840-20f0-4554-986e-c68f71295202" alt="Icon" width="286" height="256" align="left">
+<!---<img src="https://github.com/Gagafeee/Gagafeee/assets/64372089/67019840-20f0-4554-986e-c68f71295202" alt="Icon" width="286" height="256" align="left">--->
 
 # Gagafeee
 > 🇫🇷 Paris - France
