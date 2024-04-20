@@ -5,9 +5,14 @@
 
 I create website and web applications
 
-<a href="mailto:gagafeee@gmail.com">gagafeee@gmail.com</a> or <b>Gagafeee</b> on discord
+  📧 [gagafeee@gmail.com](mailto:gagafeee@gmail.com)
+
+  <img src="https://github.com/Gagafeee/Gagafeee/assets/64372089/1d9cefb0-dddc-4327-96e1-1c277edb531c" alt="discord logo" width="20" height="20" align="center"> [@Gagafeee](https://discord.com/users/733592979499122688)
+  
+  ▶️ My portfolio [gagafeee.fr](https://gagafeee.fr)
 
 <!---
 Gagafeee/Gagafeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
