@@ -9,7 +9,7 @@ I create website and web applications
 
   <img src="https://github.com/Gagafeee/Gagafeee/assets/64372089/1d9cefb0-dddc-4327-96e1-1c277edb531c" alt="discord logo" width="20" height="20" align="center"> [@Gagafeee](https://discord.com/users/733592979499122688)
   
-  ▶️ My portfolio [gagafeee.fr](https://gagafeee.fr)
+  ▶️ My portfolio [gagafeee.dev](https://gagafeee.dev)
 
 <!---
 Gagafeee/Gagafeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
