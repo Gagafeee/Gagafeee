@@ -79,4 +79,4 @@ Hi, I create websites, web-applications, and sometimes games. I love UI/UX desig
 ## 🌐 Socials:
 <img align="center" src="https://github.com/user-attachments/assets/80c6a7a5-8942-41b9-abe2-ec73041a37dc" alt="mail icon" height="40"/>  <a href="mailto:gagafeee@gmail.com">gagafeee@gmail.com</a> <br>
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" height="30" alt="discord logo"/>  <a href="https://discord.gg/https://discordapp.com/users/733592979499122688">@gagafeee</a>
-<p>Psss.. you can go see my <a href="gagafeee.dev">portfolio</a> 🙂</p>
+<p>Psss.. you can go see my <a href="https://gagafeee.dev">portfolio</a> 🙂</p>
